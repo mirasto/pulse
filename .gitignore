@@ -9,7 +9,16 @@
 # production
 /build
 
-/sass
+src/sass
+.sass-cache
+.sass-cache/*
+.sass
+.sass/*
+*.css.map
+**/.sass-cache/*
+**/.sass/*
+
+.jshintrc
 
 # misc
 .DS_Store
