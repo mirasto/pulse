@@ -48,6 +48,8 @@ $(document).ready(function(){
             $('.overlay, #order').fadeIn('slow');
         })
     });
+    
+    // validate
 
     function validateForms(form){
         $(form).validate({

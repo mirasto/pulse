@@ -19,6 +19,9 @@ src/sass
 **/.sass/*
 
 .jshintrc
+.gulpfile
+.vscode
+.git
 
 # misc
 .DS_Store
